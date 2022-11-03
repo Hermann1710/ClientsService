@@ -8,11 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ClientsServiceApplicationTests {
     public static void main(String[] args) {
         SpringApplication.run(ClientsServiceApplicationTests.class);
-        System.out.println("START");
+
     }
 
-    @Test
-    void contextLoads() {
-    }
 
 }
